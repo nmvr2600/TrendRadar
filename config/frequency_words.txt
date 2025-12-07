@@ -1,7 +1,7 @@
 ai
 !gai
 人工智能
-eepSeek
+DeepSeek
 梁文锋
 谷歌
 google
@@ -13,6 +13,7 @@ sora
 claude
 Anthropic
 qwen
+Sam Altman
 
 华为
 鸿蒙
