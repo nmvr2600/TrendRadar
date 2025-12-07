@@ -1,5 +1,18 @@
-DeepSeek
+ai
+!gai
+人工智能
+eepSeek
 梁文锋
+谷歌
+google
+gemini
+deepmind
+chatgpt
+openai
+sora
+claude
+Anthropic
+qwen
 
 华为
 鸿蒙
@@ -10,10 +23,14 @@ HarmonyOS
 刘强东
 
 字节
+抖音
+tiktok
 bytedance
 张一鸣
 
+
 特斯拉
+tesla
 马斯克
 
 微软
@@ -25,50 +42,18 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
 
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
+科技
 芯片
 光刻机
+自动驾驶
+机器人
 
-科技
 
-核能
 
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空

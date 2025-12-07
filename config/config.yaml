@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "current" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
   sort_by_position_first: false # 排序优先级：true=先按配置位置排序，false=先按热点条数排序
   max_news_per_keyword: 0 # 每个关键词最大显示数量，0=不限制
@@ -79,11 +79,11 @@ notification:
     wework_msg_type: "markdown" # 企业微信消息类型：markdown(群机器人) 或 text(个人微信应用)
     telegram_bot_token: "" # Telegram Bot Token
     telegram_chat_id: "" # Telegram Chat ID
-    email_from: "" # 发件人邮箱地址
-    email_password: "" # 发件人邮箱密码或授权码
-    email_to: "" # 收件人邮箱地址，多个收件人用逗号分隔
-    email_smtp_server: "" # SMTP服务器地址（可选，留空自动识别）
-    email_smtp_port: "" # SMTP端口（可选，留空自动识别）
+    email_from: "developer@fortao.com.cn" # 发件人邮箱地址
+    email_password: "ieLml69BR26656A6" # 发件人邮箱密码或授权码
+    email_to: "machao@fortao.com.cn" # 收件人邮箱地址，多个收件人用逗号分隔
+    email_smtp_server: "imap.feishu.cn" # SMTP服务器地址（可选，留空自动识别）
+    email_smtp_port: "465" # SMTP端口（可选，留空自动识别）
     ntfy_server_url: "https://ntfy.sh" # ntfy服务器地址，默认使用公共服务，可改为自托管地址
     ntfy_topic: "" # ntfy主题名称
     ntfy_token: "" # ntfy访问令牌（可选，用于私有主题）
